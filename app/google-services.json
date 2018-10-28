@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "784630721310",
+    "firebase_url": "https://tesraka-bd691.firebaseio.com",
+    "project_id": "tesraka-bd691",
+    "storage_bucket": "tesraka-bd691.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784630721310:android:2b3f4728dffca200",
+        "android_client_info": {
+          "package_name": "id.co.blogspot.smartesiaa.testsmartesia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784630721310-j18vebi6db97blne406h6sij89pdl39n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.co.blogspot.testsmartesia",
+            "certificate_hash": "c46275272d1cf4c1558fb68bb3885eaaef9780ef"
+          }
+        },
+        {
+          "client_id": "784630721310-7fvolgeo6uregedqajcb13nbktuqgg95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj2ddcWRls4Fp3G28pm8HLv3vDOdpuQrw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784630721310-7fvolgeo6uregedqajcb13nbktuqgg95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

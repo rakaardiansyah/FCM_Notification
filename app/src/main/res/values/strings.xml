@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">testsmartesia</string>
+    <string-array name="pilihan_menu">
+        <item>dewi</item>
+        <item>dina</item>
+        <item>anggi</item>
+        <item>bella</item>
+        <item>rina</item>
+    </string-array>
+</resources>
